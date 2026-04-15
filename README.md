@@ -44,7 +44,8 @@ Optimal classification threshold is well below 0.5 for all models due to the 60:
 
 Project Structure
 ├── notebooks/
-│   ├── 01_data_understanding.ipynb
+│   
+├── 01_data_understanding.ipynb
 │   ├── 02_data_cleaning.ipynb
 │   ├── 03_eda_visualization.ipynb
 │   ├── 04_preprocessing.ipynb
